@@ -122,7 +122,7 @@ const BookWidget = ({ webWorker }: IBookWidget) => {
                   <div
                     style={{
                       position: "absolute",
-                      right: "calc(100vw - 40rem)",
+                      right: "calc(100vw - 47vw)",
                       transform: "rotate(180deg)",
                       width: `${Math.random() * 25}rem`,
                       height: "1.5rem",
